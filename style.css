@@ -4,7 +4,7 @@ body{
 }
 h1{
     font-size: 50px;
-    font-weight: 600;
+    font-weight: 500;
 }
 .name-highlight{
     color: orange;
@@ -24,6 +24,7 @@ h1{
 }
 section{
     height: 500px;
+    padding-bottom: 100px;
 }
 .link-button{
     text-decoration: none;
@@ -32,4 +33,12 @@ section{
     border-radius: 5px;
     color: white;
     font-weight: 700;
+}
+P{
+    color: dimgray;
+}
+.dream-aria{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
